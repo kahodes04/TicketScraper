@@ -1,0 +1,10 @@
+.side-box-container {
+    border: #f8f8f9 solid 2px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.side-box-container h5 {
+    color: #961432;
+    margin-bottom: 1rem;
+}

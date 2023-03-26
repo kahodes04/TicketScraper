@@ -1,0 +1,1407 @@
+﻿div.ControlsAdmin_FileManager
+{
+}
+
+div.ControlsAdmin_FileManager input.Delete
+{
+	background-image:url(Images/Icons/delete_icon.gif); 
+	background-repeat:no-repeat;
+	background-color:Transparent;
+	cursor:hand;
+	font-size:6pt;
+	height:16px;
+	width:16px;
+	border:solid 0px black;
+}
+
+div.ControlsAdmin_FileManager input.DownloadZIP
+{
+	background-image:url(Images/Icons/zip_icon.gif); 
+	background-repeat:no-repeat;
+	background-color:Transparent;
+	cursor:hand;
+	font-size:6pt;
+	height:16px;
+	width:16px;
+	border:solid 0px black;
+}
+
+div.ControlsAdmin_FileManager input.Download
+{
+	background-image:url(Images/Icons/download_icon.gif); 
+	background-repeat:no-repeat;
+	background-color:Transparent;
+	cursor:hand;
+	font-size:6pt;
+	height:16px;
+	width:16px;
+	border:solid 0px black;
+}
+
+div.ControlsAdmin_FileManager .ButtonAsLink
+{
+	background-color: Transparent; 
+	color:Black;
+	height:24px;
+	cursor:hand;
+	text-align:left;
+	border:solid 0px Transparent;
+}
+
+div.ControlsAdmin_FileManager .CreateFolder
+{
+	background-image:url(Images/Icons/foldercreate_icon.gif); 
+	background-repeat:no-repeat;
+	background-color:Transparent;
+	cursor:hand;
+	font-size:6pt;
+	height:16px;
+	width:16px;
+	border:solid 0px black;
+}
+
+div.ControlsAdmin_FileManager .UploadFile
+{
+	background-image:url(Images/Icons/upload_icon.gif); 
+	background-repeat:no-repeat;
+	background-color:Transparent;
+	cursor:hand;
+	font-size:6pt;
+	height:16px;
+	width:16px;
+	border:solid 0px black;
+}
+
+div.ControlsAdmin_TicketMarket
+{
+
+}
+
+div.ControlsAdmin_TicketMarket .RadioEdit td
+{
+	padding:0px 10px 0px 10px;	
+}
+
+div.ControlsAdmin_TicketMarket .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_TicketMarket .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_TicketMarket .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_TicketMarket .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_TicketMarket .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_TicketMarket .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_TicketMarket .FooterStyle
+{
+}
+
+div.ControlsAdmin_TicketMarket .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_AdminIPConfig
+{
+
+}
+
+div.ControlsAdmin_AdminIPConfig .Button
+{
+	height:20px;
+	line-height:16px;
+}
+
+div.ControlsAdmin_AdminIPConfig .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_AdminIPConfig .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_AdminIPConfig .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_AdminIPConfig .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_AdminIPConfig .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_AdminIPConfig .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_AdminIPConfig .FooterStyle
+{
+}
+
+div.ControlsAdmin_AdminIPConfig .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_LanguageSwitcher
+{
+	color:black;
+	padding: 3px 7px 3px 7px;
+}
+
+div.ControlsAdmin_LanguageSwitcher .flag
+{
+	width:20px;
+}
+
+div.ConfigStateContainer
+{
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	height:100%;
+	width:100%;
+}
+
+div.ConfigStateContainer div.ConfigStateBackground
+{
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	height:100%;
+	width:100%;
+	filter: alpha(opacity=30); -moz-opacity: 0.3; 
+	background-color:#000;
+}
+
+div.ConfigStateContainer div.ConfigStateMessageBox
+{
+	position:absolute;
+	left:25%;
+	top:20px;
+	width:50%;
+	height:50%;
+}
+
+div.ControlsAdmin_ConfigState
+{
+
+}
+
+div.ControlsAdmin_ConfigState .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_ConfigState .Error
+{
+	color:red;	
+	font-weight:bold;
+}
+
+div.ControlsAdmin_ConfigState .OK
+{
+	color:green;	
+	font-weight:bold;
+}
+
+div.ControlsAdmin_Footer
+{
+  font-size:11px;
+  width:100%;
+  height:39px;
+  margin:0px;
+  padding-top:10px;
+  background-image:url(Images/Footer/footeradmin.gif);
+  background-repeat: no-repeat;
+  background-color: white;
+  color:White;
+}
+
+div.ControlsAdmin_ImageUpload
+{
+}
+
+div.ControlsAdmin_ImageUpload .Delete
+{	
+	background-image: url(Images/Buttons/delete.png); 
+	background-color: Transparent; 
+	height:24px;
+	width:24px;
+	cursor:hand;
+	border:solid 0px Transparent;
+}	
+
+div.ControlsAdmin_Menu
+{
+}
+
+div.ControlsAdmin_Menu .AdminMenu
+{		
+}
+
+div.ControlsAdmin_Menu .DynamicHoverStyle
+{
+	 z-index:1;
+	 background-color:#cccccc;
+	 color:#000000;
+}
+
+div.ControlsAdmin_Menu .DynamicSelectedStyle
+{
+	z-index:1;
+	background-color:#dddddd;
+	color:#000000;	
+}
+
+div.ControlsAdmin_Menu .DynamicMenuStyle
+{
+	z-index:1;
+	margin-left:30px;	 
+	border-style:ridge;
+	padding:10px 5px 0px 5px;
+	background-color:#aaaaaa;
+}
+
+div.ControlsAdmin_Menu .DynamicMenuItemStyle
+{
+	z-index:1;
+	color:red;
+}
+
+div.ControlsAdmin_Menu .StaticHoverStyle
+{
+}
+
+div.ControlsAdmin_Menu .StaticMenuItemStyle
+{
+	z-index:1;
+	color:#000000;
+}
+
+div.ControlsAdmin_Menu .StaticMenuStyle
+{
+}
+
+div.ControlsAdmin_Menu .StaticSelectedStyle
+{
+}
+
+div.ControlsAdmin_Header
+{
+	font-family:Arial,Verdana,Helvetica;
+	font-size:11px;
+	margin: 0px 0px 10px 0px;
+}
+
+div.ControlsAdmin_Header table.Header
+{
+	width: 100%; 
+	border: 0px; 
+	padding: 0px; 
+	margin: 0px; 
+	border-spacing: 0px; 
+	border-collapse:collapse	
+}
+
+div.ControlsAdmin_Header table.Header tr td
+{
+	border: 0px; 
+	padding: 0px; 
+	margin: 0px; 
+	border-spacing: 0px; 
+	border-style:none;
+}
+
+div.ControlsAdmin_Header table.Header tr td.TopBar
+{
+	height:12px;
+	color:White;
+	text-align:center;
+	background-color:#00007B;
+}
+
+div.ControlsAdmin_Header table.Header tr td.TopBarSpace
+{
+	height:2px;
+}
+
+div.ControlsAdmin_Header table.Header tr td.TopBarImage
+{
+}
+
+div.ControlsAdmin_Header table.Header tr td.TopBarMenu
+{
+	background-color: Black;
+	background-image: url(Images/Header/menu_back_admin.jpg);		
+    height :70px;    	
+}
+
+div.ControlsAdmin_LoginBox
+{
+}
+
+div.ControlsAdmin_LoginBox input.Textbox
+{
+  width:200px;
+}
+
+div.ControlsAdmin_EventConfig
+{
+
+}
+
+div.ControlsAdmin_EventConfig .RadioEdit td
+{
+	padding:0px 10px 0px 10px;	
+}
+
+div.ControlsAdmin_EventConfig .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_EventConfig .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_EventConfig .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_EventConfig .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_EventConfig .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_EventConfig .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_EventConfig .FooterStyle
+{
+}
+
+div.ControlsAdmin_EventConfig .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_AdminPageInfoHeader .topText
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_AdminPageInfoHeader .middleText
+{
+	color:#cc0033;
+	font-size:16pt;
+}
+
+div.ControlsAdmin_AdminPageInfoHeader .bottomText
+{
+	color:#cc0033;
+	font-size:14pt;
+}
+
+div.ControlsAdmin_PerformanceCounter .text
+{
+	font-size:8pt;
+}
+
+div.ControlsAdmin_PerformanceCounter .HeaderStyleBold
+{
+	color:#656565;
+	text-align:center;
+	text-transform:uppercase;
+	font-size:9pt;
+}
+
+div.ControlsAdmin_PerformanceCounter .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+	width:150px;
+}
+
+div.ControlsAdmin_PerformanceCounter .ContenStyle
+{
+	color:#000000;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:9pt;
+	width:150px
+}
+
+div.ControlsAdmin_PerformanceCounter .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;	
+}
+
+div.ControlsAdmin_PerformanceCounter .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_PerformanceCounter .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_BlockCategoryConfig
+{
+
+}
+
+div.ControlsAdmin_BlockCategoryConfig .RadioEdit td
+{
+	padding:0px 10px 0px 10px;	
+}
+
+div.ControlsAdmin_BlockCategoryConfig .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_BlockCategoryConfig .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_BlockCategoryConfig .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_BlockCategoryConfig .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_BlockCategoryConfig .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_BlockCategoryConfig .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_BlockCategoryConfig .FooterStyle
+{
+}
+
+div.ControlsAdmin_BlockCategoryConfig .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_PredicateConfig
+{
+
+}
+
+div.ControlsAdmin_PredicateConfig .RadioEdit td
+{
+	padding:0px 10px 0px 10px;
+}
+
+div.ControlsAdmin_PredicateConfig .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_PredicateConfig .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_PredicateConfig .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_PredicateConfig .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_PredicateConfig .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_PredicateConfig .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:10px;
+}
+
+div.ControlsAdmin_PredicateConfig .FooterStyle
+{
+}
+
+div.ControlsAdmin_PredicateConfig .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_CacheObjects
+{
+
+}
+
+div.ControlsAdmin_CacheObjects .Button
+{
+	height:20px;
+}
+
+div.ControlsAdmin_CacheObjects .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_CacheObjects .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_CacheObjects .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_CacheObjects .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_CacheObjects .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_CacheObjects .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_CacheObjects .FooterStyle
+{
+}
+
+div.ControlsAdmin_CacheObjects .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_CacheConfiguration
+{
+
+}
+
+div.ControlsAdmin_CacheConfiguration .Button
+{
+}
+
+div.ControlsAdmin_CacheConfiguration .Checkbox
+{
+}
+
+div.ControlsAdmin_CacheConfiguration .Textbox
+{
+	text-align:right;	
+	width:50px;
+	height:15px;
+}
+
+div.ControlsAdmin_CacheConfiguration .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_CacheConfiguration .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_CacheConfiguration .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_CacheConfiguration .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_CacheConfiguration .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_CacheConfiguration .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_CacheConfiguration .FooterStyle
+{
+}
+
+div.ControlsAdmin_CacheConfiguration .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_ScheduleConfig
+{
+
+}
+
+div.ControlsAdmin_ScheduleConfig .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_ScheduleConfig .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_ScheduleConfig .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_ScheduleConfig .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_ScheduleConfig .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_ScheduleConfig .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_ScheduleConfig .FooterStyle
+{
+}
+
+div.ControlsAdmin_ScheduleConfig .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_SeatPlanConfig
+{
+
+}
+
+div.ControlsAdmin_SeatPlanConfig .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_SeatPlanConfig .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_SeatPlanConfig .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_SeatPlanConfig .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_SeatPlanConfig .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_SeatPlanConfig .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_SeatPlanConfig .FooterStyle
+{
+}
+
+div.ControlsAdmin_SeatPlanConfig .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_SeatPlanBlockImagesConfig
+{
+
+}
+
+div.ControlsAdmin_SeatPlanBlockImagesConfig .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_SeatPlanBlockImagesConfig .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_SeatPlanBlockImagesConfig .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_SeatPlanBlockImagesConfig .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_SeatPlanBlockImagesConfig .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_SeatPlanBlockImagesConfig .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_SeatPlanBlockImagesConfig .FooterStyle
+{
+}
+
+div.ControlsAdmin_SeatPlanBlockImagesConfig .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_TermsOfDeliveryConfig
+{
+
+}
+
+div.ControlsAdmin_TermsOfDeliveryConfig .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_TermsOfDeliveryConfig .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_TermsOfDeliveryConfig .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_TermsOfDeliveryConfig .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_TermsOfDeliveryConfig .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_TermsOfDeliveryConfig .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_TermsOfDeliveryConfig .FooterStyle
+{
+}
+
+div.ControlsAdmin_TermsOfDeliveryConfig .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_PriceCategoryConfig
+{
+
+}
+
+div.ControlsAdmin_PriceCategoryConfig .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_PriceCategoryConfig .ListBox
+{
+	width:400px;
+	height:300px;	
+}
+
+div.ControlsAdmin_PriceCategoryConfig .DropDown
+{
+	width:400px;
+}
+
+div.ControlsAdmin_PriceCategoryConfig .ButtonFirst
+{
+	background-image: url(Images/Buttons/doubleup_round.png); 
+	background-color: Transparent; 
+	height:36px;
+	width:24px;
+	cursor:hand;
+	border:solid 0px Transparent;
+}
+
+div.ControlsAdmin_PriceCategoryConfig .ButtonUp
+{
+	background-image: url(Images/Buttons/up_round.png); 
+	background-color: Transparent; 	
+	height:24px;
+	width:24px;
+	cursor:hand;
+	border:solid 0px Transparent;
+}
+
+div.ControlsAdmin_PriceCategoryConfig .ButtonDown
+{
+	background-image: url(Images/Buttons/down_round.png); 
+	background-color: Transparent; 
+	height:24px;
+	width:24px;
+	cursor:hand;
+	border:solid 0px Transparent;
+}
+
+div.ControlsAdmin_PriceCategoryConfig .ButtonLast
+{
+	background-image: url(Images/Buttons/doubledown_round.png); 
+	background-color: Transparent; 
+	height:36px;
+	width:24px;
+	cursor:hand;
+	border:solid 0px Transparent;
+}
+
+div.ControlsAdmin_Dispatch
+{
+
+}
+
+div.ControlsAdmin_Dispatch .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_Dispatch .Textbox
+{
+	text-align:right;	
+	width:150px;
+	height:15px;
+}
+
+div.ControlsAdmin_Customer
+{
+
+}
+
+div.ControlsAdmin_Customer .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_Customer .Textbox
+{
+	text-align:right;	
+	width:150px;
+	height:15px;
+}
+
+div.ControlsAdmin_Log
+{
+
+}
+
+div.ControlsAdmin_Log .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_Log .CheckBox
+{
+}
+
+div.ControlsAdmin_TMConnections
+{
+
+}
+
+div.ControlsAdmin_TMConnections .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_TMConnections .Textbox
+{
+	text-align:right;	
+	width:200px;
+	height:15px;
+}
+
+div.ControlsAdmin_TMConnections .DropDown
+{
+	width:202px;
+}
+
+div.ControlsAdmin_SSO
+{
+
+}
+
+div.ControlsAdmin_SSO .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_SSO .Textbox
+{
+	text-align:right;	
+	width:300px;
+	height:15px;
+}
+
+div.ControlsAdmin_SSO .DropDown
+{
+	width:302px;
+}
+
+div.ControlsAdmin_EMail
+{
+
+}
+
+div.ControlsAdmin_EMail .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_EMail .Textbox
+{
+	text-align:right;	
+	width:250px;
+	height:15px;
+}
+
+div.ControlsAdmin_TMDefaultRequestValues
+{
+
+}
+
+div.ControlsAdmin_TMDefaultRequestValues .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_TMDefaultRequestValues .DropDown
+{
+	width:250px;
+}
+
+div.ControlsAdmin_Checkout
+{
+
+}
+
+div.ControlsAdmin_Checkout .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_Checkout .Textbox
+{
+	text-align:right;	
+	width:250px;
+	height:15px;
+}
+
+div.ControlsAdmin_SpecialAppConfiguration
+{
+
+}
+
+div.ControlsAdmin_SpecialAppConfiguration .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_SpecialAppConfiguration .Textbox
+{
+	text-align:right;	
+	width:250px;
+	height:15px;
+}
+
+div.ControlsAdmin_StaticLinks
+{
+}
+
+div.ControlsAdmin_StaticLinks .InnerControlHead
+{
+	font-size:10pt;
+	font-weight:bold;
+	color:#cc0033;
+}
+
+div.ControlsAdmin_StaticLinks .HeaderStyle
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_StaticLinks .HeaderStyle a
+{
+	color:#656565;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:7pt;
+}
+
+div.ControlsAdmin_StaticLinks .TableStyle
+{
+	color:Black;
+	background-color:White;
+	border:0px;
+	width:100%;
+}
+
+div.ControlsAdmin_StaticLinks .RowStyle
+{
+	color:Black;
+	background-color:White;
+	height:15px;
+	border-bottom: solid 1px black;
+	border-top: solid 1px black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.ControlsAdmin_StaticLinks .AlternatingRowStyle
+{
+	color:Black;
+	background-color:#eeeeee;
+	height:15px;
+}
+
+div.ControlsAdmin_StaticLinks .FooterStyle
+{
+}
+
+div.ControlsAdmin_StaticLinks .PagerStyle
+{
+	color:#cc0033;
+}
+
+div.ControlsAdmin_StaticLinks .Info
+{
+	background-image:url(Images/Buttons/bulb.png); 
+	background-repeat:no-repeat;
+	background-color:Transparent;
+	cursor:help;
+	font-size:6pt;
+	height:24px;
+	width:24px;
+	border:solid 0px black;
+}
